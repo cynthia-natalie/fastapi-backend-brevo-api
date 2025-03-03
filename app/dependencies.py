@@ -4,8 +4,7 @@ import sib_api_v3_sdk
 import os
 from dotenv import load_dotenv
 
-env_path = r"C:\Users\cynth\Downloads\fastapi-backend-main\app\.env"
-load_dotenv(dotenv_path=env_path)
+load_dotenv()
 
 API_KEY_NAME = "X-API-KEY"
 api_key_header = APIKeyHeader(name=API_KEY_NAME, auto_error=True)
