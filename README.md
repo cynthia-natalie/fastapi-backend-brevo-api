@@ -28,7 +28,7 @@ run fastapi app:
 uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 
 fetch an address:
-curl -X GET "http://127.0.0.1:8000/export-logs" -H "X-API-KEY: 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"
+curl -X GET "http://127.0.0.1:8000/export-logs" -H "X-API-KEY: Your-Brevo-API-Key"
 
 🔒 Production Features
 API Key Authentication: Requests must include a valid X-API-KEY.
