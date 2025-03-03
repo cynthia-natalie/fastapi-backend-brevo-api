@@ -19,7 +19,7 @@ cd fastapi-backend
 pip install -r requirements.txt
 
 create .env file and add:
-BREVO_API_KEY=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
+BREVO_API_KEY=Your-Brevo-API-Key
 START_DATE=2025-02-14
 END_DATE=2025-02-21
 LOG_FILE=output.csv
