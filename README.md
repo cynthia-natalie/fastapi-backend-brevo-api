@@ -74,3 +74,7 @@ Logging: All requests are logged for debugging and security.
 ✅ Restricting API access to specific frontend origins
 ✅ Ensuring API security while allowing controlled cross-origin access
 📌 Reference: FastAPI CORS Middleware
+```
+## Video Demo
+
+Video Demo Link: https://drive.google.com/file/d/1rNjYudlV6WX_RIrY_v7KVEXGMT1bKtQg/view?usp=drive_link
