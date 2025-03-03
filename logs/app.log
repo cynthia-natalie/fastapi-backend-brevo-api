@@ -1,0 +1,5 @@
+2025-03-03 18:57:41.891 | INFO     | app.api:export_logs:12 - Export logs endpoint accessed
+2025-03-03 18:57:43.769 | INFO     | app.services:write_logs_to_csv:50 - Logs exported to output.csv
+2025-03-03 19:00:41.850 | INFO     | app.main:health_check:30 - Health check endpoint accessed
+2025-03-03 19:01:20.690 | INFO     | app.api:export_logs:12 - Export logs endpoint accessed
+2025-03-03 19:01:22.985 | INFO     | app.services:write_logs_to_csv:50 - Logs exported to output.csv
